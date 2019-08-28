@@ -1,5 +1,5 @@
 This is the companion repository hosting the files used to generate the sample
-data for **TODO: ISSUE HERE ONCE FILED?**.
+data for https://github.com/moby/buildkit/issues/1153.
 
 ## Background
 
